@@ -76,11 +76,4 @@ Config files deleted along with a package (especially with `pacman -Rns`) don't 
 - No snap, flatpak or AUR handling yet.
 - Look at the dry run before applying. Your system, your call.
 
-## Tests
-
-```bash
-bash tests/smoke.sh
-sudo bash tests/test_apply_stub.sh
-```
-
-CI runs shellcheck, those tests, and a dry run in Debian, Ubuntu, Fedora and Arch containers. Adding packages or a new distro: see [CONTRIBUTING.md](CONTRIBUTING.md).
+Adding packages or a new distro: see [CONTRIBUTING.md](CONTRIBUTING.md).
