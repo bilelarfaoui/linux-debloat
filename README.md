@@ -84,7 +84,3 @@ sudo bash tests/test_apply_stub.sh
 ```
 
 CI runs shellcheck, those tests, and a dry run in Debian, Ubuntu, Fedora and Arch containers. Adding packages or a new distro: see [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-MIT
