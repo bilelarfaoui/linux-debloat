@@ -1,0 +1,7 @@
+# Bundled media apps (not in the default categories)
+rhythmbox
+totem
+shotwell
+cheese
+gnome-music
+gnome-photos

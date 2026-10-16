@@ -1,0 +1,14 @@
+# Low-impact preinstalled apps and docs most people never open
+gnome-tour
+gnome-weather
+gnome-maps
+gnome-connections
+gnome-user-docs
+yelp
+simple-scan
+remmina
+transmission-gtk
+epiphany
+# Manjaro helper apps
+manjaro-hello
+manjaro-application-utility

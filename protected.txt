@@ -1,0 +1,72 @@
+# Packages that must never be removed as a side effect of debloating.
+# Before removing anything, debloat.sh simulates the removal; if the simulation
+# would also take out one of these, that candidate is skipped.
+# One name per line, covers all supported families. Unknown names are harmless.
+
+# --- Debian / Ubuntu ---
+systemd
+systemd-sysv
+apt
+dpkg
+libc6
+bash
+coreutils
+sudo
+login
+util-linux
+network-manager
+netplan.io
+ubuntu-minimal
+ubuntu-standard
+ubuntu-desktop
+ubuntu-desktop-minimal
+gnome-shell
+gdm3
+sddm
+lightdm
+xorg
+xserver-xorg
+grub-common
+grub-pc
+grub-efi-amd64
+shim-signed
+linux-image-generic
+linux-image-amd64
+openssh-server
+
+# --- Fedora / RHEL ---
+dnf
+dnf5
+yum
+rpm
+glibc
+NetworkManager
+gdm
+kernel
+kernel-core
+fedora-release
+fedora-release-common
+redhat-release
+polkit
+selinux-policy
+firewalld
+grub2-common
+grub2-pc
+grub2-efi-x64
+shim-x64
+plasma-desktop
+
+# --- Arch ---
+base
+linux
+linux-lts
+linux-firmware
+pacman
+filesystem
+shadow
+mkinitcpio
+networkmanager
+grub
+plasma-desktop
+xorg-server
+openssh

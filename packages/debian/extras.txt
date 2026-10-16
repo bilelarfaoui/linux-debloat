@@ -1,0 +1,11 @@
+# Low-impact preinstalled apps and docs most people never open
+gnome-weather
+gnome-maps
+gnome-todo
+gnome-tour
+gnome-user-docs
+gnome-getting-started-docs
+yelp
+simple-scan
+remmina
+transmission-gtk

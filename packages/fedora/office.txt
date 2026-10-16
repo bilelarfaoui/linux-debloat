@@ -1,0 +1,10 @@
+# Office suite and mail client (not in the default categories)
+libreoffice-writer
+libreoffice-calc
+libreoffice-impress
+libreoffice-draw
+libreoffice-math
+libreoffice-base
+libreoffice-gtk3
+libreoffice-core
+thunderbird

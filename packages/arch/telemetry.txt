@@ -1,0 +1,2 @@
+# Usage statistics (Arch ships almost no telemetry; pkgstats is the popularity contest)
+pkgstats

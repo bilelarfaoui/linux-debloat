@@ -1,0 +1,7 @@
+# Office suite and mail clients (not in the default categories)
+libreoffice-fresh
+libreoffice-still
+thunderbird
+evolution
+abiword
+gnumeric

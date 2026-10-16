@@ -1,0 +1,19 @@
+# Telemetry, usage statistics and crash reporting (Fedora / RHEL / derivatives)
+abrt
+abrt-cli
+abrt-desktop
+abrt-gui
+abrt-libs
+abrt-addon-ccpp
+abrt-addon-kerneloops
+abrt-addon-pstoreoops
+abrt-addon-vmcore
+abrt-addon-xorg
+abrt-addon-python3
+abrt-dbus
+abrt-tui
+gnome-abrt
+libreport
+libreport-gtk
+insights-client
+rhc

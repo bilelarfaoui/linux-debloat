@@ -1,0 +1,12 @@
+# Telemetry, usage statistics and crash reporting (Debian / Ubuntu / derivatives)
+popularity-contest
+ubuntu-report
+apport
+apport-gtk
+apport-symptoms
+whoopsie
+whoopsie-preferences
+kerneloops
+zeitgeist-core
+zeitgeist-datahub
+reportbug
