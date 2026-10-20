@@ -17,7 +17,7 @@ The family is picked from `ID` / `ID_LIKE` in `/etc/os-release`. If your distro 
 ## Use
 
 ```bash
-git clone https://github.com/<you>/linux-debloat.git
+git clone https://github.com/bilelarfaoui/linux-debloat.git
 cd linux-debloat
 
 ./debloat.sh            # preview only
