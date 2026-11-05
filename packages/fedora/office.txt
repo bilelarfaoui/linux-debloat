@@ -8,3 +8,12 @@ libreoffice-base
 libreoffice-gtk3
 libreoffice-core
 thunderbird
+okular
+skanpage
+kwrite
+kmail
+kontact
+libreoffice-*
+kwalletmanager5
+kwalletmanager
+korganizer
