@@ -9,3 +9,23 @@ mediawriter
 simple-scan
 remmina
 transmission-gtk
+kinfocenter
+kmouth
+qrca
+neochat
+kfind
+firefox
+firewall
+akregator
+kaddressbook
+kmousetool
+ktnet
+pim sieve*
+plasma-welcome
+kcharselect
+khelpcenter
+kleopatra
+plasma.emojier
+kcalc
+firewall-config
+kdebugsettings
