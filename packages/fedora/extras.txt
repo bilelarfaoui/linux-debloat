@@ -29,3 +29,7 @@ plasma.emojier
 kcalc
 firewall-config
 kdebugsettings
+krdc
+krfb
+kolourpaint
+filelight
