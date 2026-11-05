@@ -5,3 +5,5 @@ shotwell
 cheese
 gnome-music
 gnome-photos
+elisa-player
+dragon
